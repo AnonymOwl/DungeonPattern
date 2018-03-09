@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: a41da1336b7565e4190387667bb02aaf
+timeCreated: 1519073516
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm1L
+    100002: Arm1R
+    100004: Arm2L
+    100006: Arm2R
+    100008: Armature
+    100010: Back
+    100012: BeakBottom
+    100014: BeakBottom_end
+    100016: BeakTop
+    100018: BeakTop_end
+    100020: Birb
+    100022: Finger1L1
+    100024: Finger1L2
+    100026: Finger1L3
+    100028: Finger1L3_end
+    100030: Finger1R1
+    100032: Finger1R2
+    100034: Finger1R3
+    100036: Finger1R3_end
+    100038: Finger2L1
+    100040: Finger2L2
+    100042: Finger2L3
+    100044: Finger2L3_end
+    100046: Finger2R1
+    100048: Finger2R2
+    100050: Finger2R3
+    100052: Finger2R3_end
+    100054: Finger3L1
+    100056: Finger3L2
+    100058: Finger3L3
+    100060: Finger3L3_end
+    100062: Finger3R1
+    100064: Finger3R2
+    100066: Finger3R3
+    100068: Finger3R3_end
+    100070: Finger4L1
+    100072: Finger4L2
+    100074: Finger4L2_end
+    100076: Finger4R1
+    100078: Finger4R2
+    100080: Finger4R2_end
+    100082: FootL
+    100084: FootL_end
+    100086: FootR
+    100088: FootR_end
+    100090: Head
+    100092: //RootNode
+    100094: Leg1L
+    100096: Leg1R
+    100098: Leg2L
+    100100: Leg2R
+    100102: Leg3L
+    100104: Leg3R
+    100106: Pelvis
+    100108: Tail1
+    100110: Tail2
+    100112: Tail3
+    100114: Tail3_end
+    100116: WingL
+    100118: WingL_end
+    100120: WingR
+    100122: WingR_end
+    400000: Arm1L
+    400002: Arm1R
+    400004: Arm2L
+    400006: Arm2R
+    400008: Armature
+    400010: Back
+    400012: BeakBottom
+    400014: BeakBottom_end
+    400016: BeakTop
+    400018: BeakTop_end
+    400020: Birb
+    400022: Finger1L1
+    400024: Finger1L2
+    400026: Finger1L3
+    400028: Finger1L3_end
+    400030: Finger1R1
+    400032: Finger1R2
+    400034: Finger1R3
+    400036: Finger1R3_end
+    400038: Finger2L1
+    400040: Finger2L2
+    400042: Finger2L3
+    400044: Finger2L3_end
+    400046: Finger2R1
+    400048: Finger2R2
+    400050: Finger2R3
+    400052: Finger2R3_end
+    400054: Finger3L1
+    400056: Finger3L2
+    400058: Finger3L3
+    400060: Finger3L3_end
+    400062: Finger3R1
+    400064: Finger3R2
+    400066: Finger3R3
+    400068: Finger3R3_end
+    400070: Finger4L1
+    400072: Finger4L2
+    400074: Finger4L2_end
+    400076: Finger4R1
+    400078: Finger4R2
+    400080: Finger4R2_end
+    400082: FootL
+    400084: FootL_end
+    400086: FootR
+    400088: FootR_end
+    400090: Head
+    400092: //RootNode
+    400094: Leg1L
+    400096: Leg1R
+    400098: Leg2L
+    400100: Leg2R
+    400102: Leg3L
+    400104: Leg3R
+    400106: Pelvis
+    400108: Tail1
+    400110: Tail2
+    400112: Tail3
+    400114: Tail3_end
+    400116: WingL
+    400118: WingL_end
+    400120: WingR
+    400122: WingR_end
+    2100000: MainBirb
+    4300000: Birb
+    9500000: //RootNode
+    13700000: Birb
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
